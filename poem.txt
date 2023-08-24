@@ -12,12 +12,17 @@ Mary a lamb.
 Marry a lamb.
 Mary had a lamb looked like a lamb.
 I want chocolate for Valentine's day.
+CHOCOLATE IS KING!
+Man, who doesn't love chocolate?
 This line contains a slash (/).
 This line contains a backslash (\).
 This line contains brackets ([]).
 Why is mary lowercase?
 What about Mary, Mary, and Mary?
+Mary mary What about Mary, Mary, and Mary?
+mary MARY MARY!!!!!!
 const people fox
+const people are mary MARY Mary!
 constant turtles bear
 constellation Libra
 How about 9 * 9?

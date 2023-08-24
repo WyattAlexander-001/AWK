@@ -1,0 +1,1 @@
+/married/,/lamb/{ print $0; }

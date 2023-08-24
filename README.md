@@ -15,5 +15,6 @@ Done...
 
 # Notes:
 
+- you can comment code with #, just like in Python!
 - /word/{code} will parse for a certain word! As shown in E.g 2
 - We can also use logical comparators like && (and) || (or)
